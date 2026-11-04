@@ -1,0 +1,26 @@
+Structure	State	theta1 [deg]	theta2 [deg]	Nearest representative	Angular distance [deg]	Representatives within 5 deg
+4AKE	open, apo	94.8	61.5	gEDES_027	4.3	1
+1AKE	closed, holo	62.8	27.0	gEDES_064	3.2	8
+1ZIN	Ap5A, partly open LID	70.3	28.7	gEDES_043	0.8	11
+1ZIO	Mg-Ap5A, partly open LID	71.1	28.6	gEDES_066	0.5	9
+1ZIP	Mn-Ap5A, partly open LID	70.5	28.6	gEDES_043	0.7	10
+1AK2	closed LID, open NMP	65.5	59.9	gEDES_028	1.3	6
+2AK2	closed LID, open NMP	65.6	59.7	gEDES_028	1.2	6
+1DVR	closed LID, open NMP	64.1	59.8	gEDES_009	2.4	5
+2C9Y	closed LID, open NMP	70.2	60.1	gEDES_002	0.5	2
+System 1	homologue holo structure	63.4	27.0	gEDES_058	3.0	10
+System 2	homologue holo structure	61.1	27.2	gEDES_064	2.5	6
+System 3	homologue holo structure	62.9	28.3	gEDES_064	2.3	13
+System 4	homologue holo structure	63.3	27.8	gEDES_058	2.7	12
+System 5	homologue holo structure	64.5	26.1	gEDES_058	3.1	4
+System 6	homologue holo structure	60.5	27.9	gEDES_064	1.8	5
+System 7	homologue holo structure	64.1	28.4	gEDES_058	1.7	14
+System 8	homologue holo structure	67.8	28.1	gEDES_056	1.4	12
+System 9	homologue holo structure	62.9	28.0	gEDES_064	2.5	11
+System 10	homologue holo structure	67.1	31.1	gEDES_055	0.4	17
+System 11	homologue holo structure	98.2	38.7	gEDES_085	14.0	0
+System 12	homologue holo structure	63.9	29.1	gEDES_083	1.6	17
+System 13	homologue holo structure	64.8	27.8	gEDES_058	1.5	14
+System 14	homologue holo structure	77.4	44.1	gEDES_026	3.1	5
+System 21	homologue holo structure	59.9	27.4	gEDES_064	2.5	5
+System 22	homologue holo structure	61.7	27.6	gEDES_064	2.2	7

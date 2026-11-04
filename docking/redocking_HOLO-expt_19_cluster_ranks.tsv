@@ -1,0 +1,2 @@
+rank	cluster_id	size	avg_top3_score	pose_score	pose_combined_BS-lig	pose_lig_rmsd	pose_bs_rmsd	pose_wholepro_rmsd	pose_id	pose_fnat
+1	0	46	-124.894	-127.187	0.4874	0.5579	0.4696	0.2167	emref_46	1.000

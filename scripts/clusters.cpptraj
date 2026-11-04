@@ -1,0 +1,17 @@
+parm concat.pdb
+trajin concat.pdb
+
+reference concat.pdb 1 [REF]
+rms BSfit :9,10,11,12,13,14,15,31,36,53,57,59,64,85,88,92,124,127,136,137,138,142,160,171,197,199&!@H= ref [REF]
+
+cluster c1 \
+  rms :9,10,11,12,13,14,15,31,36,53,57,59,64,85,88,92,124,127,136,137,138,142,160,171,197,199,UNK&!@H= nofit \
+  hieragglo epsilon 1.5 \
+  out clusters_cpptraj/cnumvtime.dat \
+  summary clusters_cpptraj/cluster_summary.dat \
+  info clusters_cpptraj/cluster_info.dat \
+  repout clusters_cpptraj/cluster_reps repfmt pdb \
+  clusterout clusters_cpptraj/cluster_members clusterfmt pdb
+
+run
+quit

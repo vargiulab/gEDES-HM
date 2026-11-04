@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Structure ensembles live on Zenodo (710 MB), see README
+proteins_structural_models/**/*.pdb
+proteins_structural_models/**/*.pdb.gz
