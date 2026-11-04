@@ -1,4 +1,4 @@
-# gEDES-HM
+# gEDES-HM (generalized Ensemble Docking with Enhanced sampling of pocket Shape - Homology Modeling)
 
 [![Paper](https://img.shields.io/badge/Paper-10.1021%2Facs.jcim.6c02521-blue)](https://doi.org/10.1021/acs.jcim.6c02521)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21534586.svg)](https://doi.org/10.5281/zenodo.21534586)
